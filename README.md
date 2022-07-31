@@ -29,6 +29,5 @@
 # Cute visitor count
 <a href="https://t.me/zerohisoka"><img alt="Cute Count" src="https://count.getloli.com/get/@Nchuuya?theme=rule34" /></a>
 
-**Stats:**  
+**Trophies:**  
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nchuuya&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nchuuya&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
