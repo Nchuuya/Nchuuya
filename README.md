@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://www.zerochan.net/3440230">
+  <img src="https://telegra.ph/Jjh-07-31">
 </p>
 
 
