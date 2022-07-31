@@ -1,5 +1,9 @@
 ### Hi there 👋
-https://raw.githubusercontent.com/Nchuuya/Nchuuya/main/-5766201639257091569_120.jpg
+
+<p align="center">
+  <img src="https://www.zerochan.net/3440230">
+</p>
+
 
 **Nchuuya/Nchuuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
