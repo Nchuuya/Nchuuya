@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm zerohisoka</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Ahjin+Network%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+Japan%E2%9C%8C%EF%B8%8F;Working+In+Ahjin+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
   <a href="https://t.me/zerohisooka"><img src="https://telegra.ph/file/e48461b71ea78772f3b7e.jpg" alt="zerohisoka"></a>
