@@ -21,7 +21,6 @@
 ![zerohisoka's Git Stats](https://github-readme-stats.vercel.app/api?username=Nchuuya&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ![zerohisoka's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Nchuuya&theme=tokyonight)
-![zerohisoka's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nchuuya&theme=tokyonight&layout=compact&langs_count=6)
 
 # My Activity Graph
 
@@ -29,3 +28,7 @@
 ![zerohisoka's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Nchuuya&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 # Cute visitor count
 <a href="https://t.me/zerohisoka"><img alt="Cute Count" src="https://count.getloli.com/get/@Nchuuya?theme=rule34" /></a>
+
+**Stats:**  
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nchuuya&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nchuuya&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeZilla&theme=tokyonight&hide=batchfile">
