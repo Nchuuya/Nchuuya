@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+Ahjin+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/zerohisooka"><img src="https://telegra.ph/file/e8bc77d186a466c3d29f5.mp4" alt="zerohisoka"></a>
+  <a href="https://t.me/zerohisooka"><img src="https://telegra.ph/file/d072569b28d154c4ca9e0.jpg" alt="zerohisoka"></a>
   
   
   
